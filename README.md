@@ -1,8 +1,10 @@
 # LabBookingSystem
 A Computer Laboratory Booking System powered by Java(7) 
 
-![Manage Lab Room](manage_room.gif)
+# Manage Lab Room
+![Manage Lab Room](manange_room.gif)
 
+# Do Booking
 ![Do booking and view](book_room.gif)
 
 # History
