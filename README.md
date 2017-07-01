@@ -8,7 +8,7 @@ A Computer Laboratory Booking System powered by Java(7)
 ![Do booking and view](book_room.gif)
 
 # History
-This is just another typical academic project you'd get on as your lab assignments. It was created back then 2011 we(was a group project) had to create a system which can manage laboratory bookings of different lab size and other requirements. The project is done using only FileSystem. No databases or nothing related to. Just pure FileWrite & Read.
+This is just another typical academic project you'd get on as your lab assignments. It was created back then 2011 we(was a group project) had to create a system which can manage laboratory bookings of different lab size and other requirements. The project is done using only FileSystem. No databases or nothing related to. Just pure FileWrite & Read. We didn't built the project by ourself only. took a great help from senior Java programmars back then.
 
 
 # Use cases
@@ -20,8 +20,8 @@ Faculties will come to the lab operator and tell his/her requirements. E.g (I ne
 
 
 # Demo
-You can always run the project executing the main function. The .jar is accompanied with this repo and also have a pre populated dataset
+You can always run the project executing the main function. The .jar is included with this repo and also have a pre populated dataset
 
 
 # Issues
-I have no intention to maintain this repo. Plus I also think there's nothing that can be added. You can play around as you want. Have tried mainitain OOP as much possible.
+I have no intention to maintain this repo. Plus I also think there's nothing that can be added. You can play around as you want. The codebase is pretty much neat. Now I realize that the filter function doesn't have any `year` included. feel to free to upgrade as you want.
