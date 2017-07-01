@@ -1,6 +1,10 @@
 # LabBookingSystem
 A Computer Laboratory Booking System powered by Java(7) 
 
+![Manage Lab Room](manage_room.gif)
+
+![Do booking and view](book_room.gif)
+
 # History
 This is just another typical academic project you'd get on as your lab assignments. It was created back then 2011 we(was a group project) had to create a system which can manage laboratory bookings of different lab size and other requirements. The project is done using only FileSystem. No databases or nothing related to. Just pure FileWrite & Read.
 
