@@ -1,5 +1,5 @@
-# LabBookingSystem
-A Computer Laboratory Booking System powered by Java(7) 
+# Lab Booking/Management System
+A Computer Laboratory Booking/Management System powered by Java(7) 
 
 # Manage Lab Room
 ![Manage Lab Room](manange_room.gif)
