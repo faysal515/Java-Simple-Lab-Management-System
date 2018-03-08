@@ -24,4 +24,4 @@ You can always run the project executing the main function. The .jar is included
 
 
 # Issues
-I have no intention to maintain this repo. Plus I also think there's nothing that can be added. You can play around as you want. The codebase is pretty much neat. Now I realize that the filter function doesn't have any `year` included. feel to free to upgrade as you want.
+I have no intention to maintain this repo. Plus I also think there's anything to be added. You can play around as you want. The codebase is pretty much neat. Now I realize that the filter function doesn't have any `year` included. feel to free to upgrade as you want.
